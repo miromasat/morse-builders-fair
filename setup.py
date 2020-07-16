@@ -9,11 +9,11 @@ setuptools.setup(
     name="morse_builders_fair",
     version="0.0.1",
 
-    description="A sample CDK Python app",
+    description="Morse code emmiter",
     long_description=long_description,
     long_description_content_type="text/markdown",
 
-    author="author",
+    author="Miroslav Masat",
 
     package_dir={"": "morse_builders_fair"},
     packages=setuptools.find_packages(where="morse_builders_fair"),
